@@ -34,7 +34,8 @@ form.addEventListener('submit', function(e) {
   campaigns.unshift(newCampaign); // Add to top
   renderCampaigns();
   form.reset();
-  alert("✅ Campaign created (demo only)");
+  alert(" Campaign created (demo only)");
 });
 
 renderCampaigns(); // Initial render
+
