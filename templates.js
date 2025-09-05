@@ -39,7 +39,7 @@ form.addEventListener("submit", function (e) {
   templates.push({ name, content });
   form.reset();
   renderTemplates();
-  alert("✅ Template added!");
+  alert("Template added!");
 });
 
 function deleteTemplate(index) {
@@ -57,3 +57,4 @@ function editTemplate(index) {
 }
 
 renderTemplates();
+
