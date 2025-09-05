@@ -1,4 +1,4 @@
-# Phish-Aware-EPSP
+
  Ethical Phishing Simulation Platform
 
 This project is a web-based phishing simulation tool built for cybersecurity awareness and training.
